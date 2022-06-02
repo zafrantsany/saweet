@@ -45,6 +45,8 @@ gulpfile.tmp.*
 ############################### DEVELOPMENT_ONLY ###############################
 
 # Excludes generated 
+# Nuxt generate
+# dist
 /dist
 /build
 /tmp
@@ -58,5 +60,3 @@ gulpfile.tmp.*
 /html-demo
 /html-starter-demo
 
-# Nuxt generate
-# dist
